@@ -5,14 +5,15 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="frontend/scss/style.css">
     <title>ECV DIGITAL</title>
 </head>
 
 <body>
 
     <header id="title">
-        <img src="logo.png" alt="logo de l'ecv digital">
+        <img src="frontend/images/logo.png" alt="logo de l'ecv digital">
+        <h1>ECV Aix en Provence</h1>
     </header>
 
     <div id="links">
@@ -30,27 +31,21 @@
     </div>
 
     <div id="information">
+        <!-- ? zone geré javascript -->
         <h2>Infos importantes</h2>
 
-        <p class="info-text">
-            CVEC à rendre avant le 16 AOUT à Sonia !
-        </p>
-
-        <p class="info-text">
-            Pré-rentrer le 15 septembre (je crois)
-        </p>
+        <p class="info-text" id="admin-info1"></p>
+        <p class="info-text" id="admin-info2"></p>
+        <!-- ? -->
     </div>
 
     <div id="evenement">
+        <!-- ? zone geré par javascript -->
         <h2>Evenements BDE</h2>
 
-        <p class="event-text">
-            Soirée pizza à la fin des cours
-        </p>
-
-        <p class="event-text">
-            Vente de crêpe le 3 mars
-        </p>
+        <p class="event-text" id="bde-info1"></p>
+        <p class="event-text" id="bde-info2"></p>
+        <!-- ? -->
     </div>
 
     <fieldset id="contact">
@@ -59,27 +54,27 @@
         <div id="contact-box">
             <!-- mail sonia -->
             <p>sonia@ecv.fr</p>
-            <!-- mail morgan -->
-            <p>morgane@ecv.fr</p>
             <!-- mail jeanne -->
-            <p>jeannen@ecv.fr</p>
+            <p>jeanne@ecv.fr</p>
             <!-- mail administration -->
             <p>administration@ecv.fr</p>
+            <!-- mail autre -->
+            <p>exemple@ecv.fr</p>
         </div>
     </fieldset>
 
     <div id="reseaux">
-        <img src="facebook.svg" alt="logo facebook">
-        <img src="instagram.svg" alt="logo instagram">
-        <img src="twitter.svg" alt="logo twitter">
-        <img src="linkedin.svg" alt="logo linkedin">
+        <img src="frontend/images/facebook.svg" alt="logo facebook">
+        <img src="frontend/images/instagram.svg" alt="logo instagram">
+        <img src="frontend/images/twitter.svg" alt="logo twitter">
+        <img src="frontend/images/linkedin.svg" alt="logo linkedin">
     </div>
 
    <footer>
-       <p> v1.0 - ECV DIGITAL  - <a href="about-us.html">A propos de l'extension</a></p>
+       <p> v1.0 - ECV Creative school & Community - Aix en Provence - <a href="frontend/about-us.html">A propos de l'extension</a></p>
    </footer>
 
-    <script src="script.js"></script>
+    <script src="frontend/js/script.js"></script>
 </body>
 
 </html>

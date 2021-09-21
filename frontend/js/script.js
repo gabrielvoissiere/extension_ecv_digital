@@ -25,3 +25,22 @@ function notification() {
     }
 }
 
+fetch("http://localhost:5000/api/info").then(response => {
+    if (response.ok) {
+        return response.json()
+    } else {
+        console.error('API connection failed');
+    }
+}).then(responseData => {
+    responseData.forEach(elm => {
+        if (elm.from == "admin") {
+            document.getElementById("admin-info1").innerHTML = elm.infoText1
+            document.getElementById("admin-info2").innerHTML = elm.infoText2
+        } else {
+            document.getElementById("bde-info1").innerHTML = elm.infoText1
+            document.getElementById("bde-info2").innerHTML = elm.infoText2
+        }
+    });
+}).catch(error => {
+    console.log(error);
+})

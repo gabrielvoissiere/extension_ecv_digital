@@ -16,7 +16,7 @@ body {
 body {
   width: 500px;
   height: 560px;
-  border: 4px solid #02B3FF;
+  border: 4px solid #8956EF;
   margin: 5px;
   border-radius: 5px;
   padding: 5px;
@@ -38,10 +38,9 @@ body {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  border-bottom: 2px solid #02B3FF;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  border-bottom: 2px solid #8956EF;
 }
 
 #title img {
@@ -74,7 +73,7 @@ body {
 }
 
 #links #links-box a {
-  color: #02B3FF;
+  color: #8956EF;
   text-decoration: none;
   font-size: 1rem;
 }
@@ -99,7 +98,7 @@ body {
   margin-top: 2px;
   margin-bottom: 0px;
   width: 95%;
-  background-color: rgba(255, 0, 0, 0.527);
+  background-color: #eb001086;
   border-radius: 5px;
   padding: 10px;
   font-size: 1rem;
@@ -139,7 +138,8 @@ body {
       -ms-flex-direction: column;
           flex-direction: column;
   text-align: center;
-  border: 2px solid #02B3FF;
+  border: 2px solid #8956EF;
+  border-radius: 5px;
 }
 
 #contact legend {
@@ -219,7 +219,7 @@ footer {
       -ms-flex-direction: column;
           flex-direction: column;
   text-align: center;
-  border: 2px solid #02B3FF;
+  border: 2px solid #8956EF;
 }
 
 #about-us legend {
@@ -239,7 +239,7 @@ footer {
       -ms-flex-direction: column;
           flex-direction: column;
   text-align: center;
-  border: 2px solid #02B3FF;
+  border: 2px solid #8956EF;
 }
 
 #devweb legend {
@@ -249,7 +249,7 @@ footer {
 #bande {
   width: 95%;
   height: 48px;
-  background-color: #02B3FF;
+  background-color: #8956EF;
   margin-top: 15px;
   border-radius: 5px;
 }

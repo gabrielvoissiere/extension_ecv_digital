@@ -1,10 +1,10 @@
 {
     "manifest_version": 2,
     "name": "ECV Aix en Provence",
-    "description": "show the cpu usage and warn if is to high",
+    "description": "Centralise les informations importantes de l'ecole l'ECV Creative school & Community de Aix en provence",
     "version": "1.0",
     "icons": {
-        "128": "128.png"
+        "128": "frontend/images/128.png"
     },
     "browser_action": {
       "default_popup": "index.html"
