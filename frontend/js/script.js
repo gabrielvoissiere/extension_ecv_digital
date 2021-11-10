@@ -25,7 +25,7 @@ function notification() {
     }
 }
 
-fetch("http://localhost:5000/api/info").then(response => {
+fetch("http://217.160.9.42:3000/api/info").then(response => {
     if (response.ok) {
         return response.json()
     } else {
