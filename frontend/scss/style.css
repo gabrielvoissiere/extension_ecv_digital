@@ -181,7 +181,7 @@ body {
           align-items: center;
 }
 
-#reseaux img {
+#reseaux a {
   width: 10%;
   height: auto;
   display: -webkit-box;
@@ -193,6 +193,10 @@ body {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+}
+
+#reseaux a img {
+  width: 100%;
 }
 
 footer {
