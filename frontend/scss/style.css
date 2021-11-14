@@ -156,7 +156,7 @@ body {
       grid-template-columns: repeat(2, 1fr);
 }
 
-#contact #contact-box p {
+#contact #contact-box a {
   font-size: 1rem;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -165,6 +165,8 @@ body {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
+  color: black;
+  text-decoration: none;
 }
 
 #reseaux {

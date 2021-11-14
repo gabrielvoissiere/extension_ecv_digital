@@ -121,10 +121,12 @@ body {
         grid-template-rows: auto;
         grid-template-columns: repeat(2, 1fr);
 
-        p {
+        a {
             font-size: 1rem;
             display: flex;
             flex-direction: column;
+            color: black;
+            text-decoration: none;
         }
     }
 }
