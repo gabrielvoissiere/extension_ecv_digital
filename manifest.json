@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "ECV Aix en Provence",
     "description": "Centralise les informations importantes de l'ecole l'ECV Creative school & Community de Aix en provence",
-    "version": "1.4",
+    "version": "1.5",
     "icons": {
         "128": "frontend/images/128.png"
     },

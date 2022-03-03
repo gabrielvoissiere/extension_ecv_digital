@@ -1,0 +1,296 @@
+[
+    {
+        "mot": "Estimate",
+        "translation": "Devis",
+        "exemple": "exemple",
+        "img_url": "./url/image.jpg",
+        "audio_url": "./url/audio.mp3"
+    },
+    {
+        "mot": "Traineeship",
+        "translation": "Stage / Alternance",
+        "exemple": "exemple2",
+        "img_url": "./url/image2.jpg",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "Competition",
+        "translation": "Concurrence",
+        "exemple": "exemple2",
+        "img_url": "./url/image2.jpg",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "Marketing analysis",
+        "translation": "Analyse marketing",
+        "exemple": "exemple2",
+        "img_url": "./url/image2.jpg",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "Professional development",
+        "translation": "Evolution pro",
+        "exemple": "The society is in a formidable technological breakthrough since 2000. \n\n It literally means a technology that has broken through some kind of .obstacle,barrier,or may indicate a sudden advance.",
+        "img_url": "https://tenor.com/view/hello-old-people-computer-technology-biff-gif-12085559",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "Artificial intelligence",
+        "translation": "Intelligence Artificiel",
+        "exemple": "Boston dynamics work on artificial intelligence to facilitate our lives. It means the theory and development of computer systems able to perform tasks normally requiring human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages.",
+        "img_url": "https://sir.chamallow.com/archives/1665",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "Be aware",
+        "translation": "Se tenir au courant",
+        "exemple": "Be aware of the actuality, it’s important nowadays. It means that you know what happens if a fire breaks out in your city by watching TV, social networks…",
+        "img_url": "https://vsgif.com/gif/3116366",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "Connected devices",
+        "translation": "Objet connectés",
+        "exemple": "We all have connected devices like your smartphone or your computer. A connected device is a device that is linked to the internet and can interact with other from afar.",
+        "img_url": "https://giphy.com/gifs/illustration-smartphone-scrolling-l41Ygr7sR5limRkek",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "World’s digitalisation",
+        "translation": "Digitalisation du monde",
+        "exemple": "The world’s digitalization is taking a beautiful extend but a scary one at the same time. Digitalization is the integration of digital technologies into everyday life by the digitization of everything that can be digitized. The literal meaning of digitalization gives an apparent idea of development and technology dependent world.",
+        "img_url": "https://constructioncode.blogspot.com/2015/10/digital-change-funny-gif.html?m=1",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "Graphical charter",
+        "translation": "Charte graphique",
+        "exemple": "The expression graphic charter corresponds to all the elements that define the visual identity of a brand, an organization or a company",
+        "img_url": "./url/image2.jpg",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "Kerning",
+        "translation": "Crénage",
+        "exemple": "It’s necessary to put a kerning to have a clear text ",
+        "img_url": "./url/image2.jpg",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "Echelle",
+        "translation": "Scale",
+        "exemple": "The scale bar is a set of straight lines representing the numerical size",
+        "img_url": "./url/image2.jpg",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "Convey emotions",
+        "translation": "Transmettre des émotions",
+        "exemple": "To give to feeling to others ",
+        "img_url": "./url/image2.jpg",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "Sketch",
+        "translation": "Croquis",
+        "exemple": "A sketch is a drawing done quickly, freehand, without looking for details in order to bring out in broad strokes, the essence of the subject",
+        "img_url": "./url/image2.jpg",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "Follow trends",
+        "translation": "Suivre les tendances",
+        "exemple": "You have to follow the trends if you want to be in the game.",
+        "img_url": "./url/image2.jpg",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "Support the clients",
+        "translation": "Accompagner les clients",
+        "exemple": "The aim of my job is to support the clients in the best way possible",
+        "img_url": "./url/image2.jpg",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "Targeted advertising",
+        "translation": "Publicité ciblée",
+        "exemple": "Targeted advertising is the most cost effective means of communication.",
+        "img_url": "./url/image2.jpg",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "KPI",
+        "translation": "Key performance indicators",
+        "exemple": "Key performance indicators",
+        "img_url": "./url/image2.jpg",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "Trademarks",
+        "translation": "Marques",
+        "exemple": "Trademarks are symbols and or words used to symbolise a company or product.",
+        "img_url": "./url/image2.jpg",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "Commercial strategy",
+        "translation": "Stratégie commerciale",
+        "exemple": "exemple2",
+        "img_url": "./url/image2.jpg",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "Visual identity",
+        "translation": "Identité visuelle",
+        "exemple": "exemple2",
+        "img_url": "./url/image2.jpg",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "Job interview",
+        "translation": "Entretien d’embauche",
+        "exemple": "exemple2",
+        "img_url": "./url/image2.jpg",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "Daily meeting",
+        "translation": "Points quotidiens",
+        "exemple": "exemple2",
+        "img_url": "./url/image2.jpg",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "Remote working",
+        "translation": "Faire du télétravail",
+        "exemple": "exemple2",
+        "img_url": "./url/image2.jpg",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "Non fongible Token",
+        "translation": "Jeton non Fongible ",
+        "exemple": "The non fongible token is the future of economy a unique digital identifier that cannot be copied, substituted, or subdivided, that is recorded in a blockchain, and that is used to certify authenticity and ownership",
+        "img_url": "https://tenor.com/view/nft-non-fungible-token-digital-asset-digital-art-wtf-gif-24014906",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "Numerical law",
+        "translation": "Loi du numérique",
+        "exemple": "The numerical is changing day by day, For example the recent creation of ARCOM. It means a law that concerns the numerical topic. Take the example of the ARCOM. It's a society who make rules on the net, limit and punish illegal streaming sites.",
+        "img_url": "https://media.gqmagazine.fr/photos/5c13b4260991a96a82227a92/master/pass/smartphone.png",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "Cyber harassment",
+        "translation": "Cyber harcèlement",
+        "exemple": "Online bullying is increasing due to Covid-19. Don’t do that. Cyberbullying includes sending, posting, or sharing negative, harmful, false, or mean content about someone else. It can include sharing personal or private information about someone else causing embarrassment or humiliation. Don’t ever do that please.",
+        "img_url": "https://i.gifer.com/origin/2",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "Digitized informatione",
+        "translation": "Information digitalisée",
+        "exemple": "nformation has become incredibly digitized in the last decade. The process of converting pictures, sound, or information into a form that a computer can easily read is digitization. To simplify, it’s converting analog information into a digital form.",
+        "img_url": "https://miro.medium.com/max/1400/1*FYlHOR7pwPrPh3ouwTrheg.gif",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "Lack of data",
+        "translation": "Manque d’information",
+        "exemple": "Trademarks are symbols and or words used to symbolise a company or product.",
+        "img_url": "./url/image2.jpg",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "Gradient",
+        "translation": "Dégradé",
+        "exemple": "A gradient is a gradual change in color ",
+        "img_url": "./url/image2.jpg",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "Grid",
+        "translation": "Grille",
+        "exemple": "A typographic grid is a two-dimensional structure, composed of a series of intersecting vertical and horizontal axes",
+        "img_url": "./url/image2.jpg",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "User flow",
+        "translation": "flux utilisateurs",
+        "exemple": "The user flow is a graphic representation, written or digital, of the paths that can be taken when this user navigates on a website or an application ",
+        "img_url": "./url/image2.jpg",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "model",
+        "translation": "maquette",
+        "exemple": "A model is a prototype, a sketch of a website or a final application",
+        "img_url": "./url/image2.jpg",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "typeface",
+        "translation": "Caractère typographique ",
+        "exemple": "A typeface is a design for a set of printer or display fonts, each for a set of characters, in a number of specific sizes",
+        "img_url": "./url/image2.jpg",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "Knowledge",
+        "translation": "Connaissance",
+        "exemple": "Knowledge is facts, information, and skills acquired through experience",
+        "img_url": "./url/image2.jpg",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "End-user",
+        "translation": "Utilisateur",
+        "exemple": "End-user is the person who actually uses a particular product.",
+        "img_url": "./url/image2.jpg",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "Product launch",
+        "translation": "Lancement produits",
+        "exemple": "Product launch is the process of introducing a new product for sale",
+        "img_url": "./url/image2.jpg",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "Funnel",
+        "translation": "Entonnoir",
+        "exemple": "Product launch is the process of introducing a new product for sale for ",
+        "img_url": "./url/image2.jpg",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "Chunking",
+        "translation": "Chunking",
+        "exemple": "Chunking",
+        "img_url": "./url/image2.jpg",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "Ergonomics",
+        "translation": "Ergonomie",
+        "exemple": "Ergonomie",
+        "img_url": "./url/image2.jpg",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "Conversion rate",
+        "translation": "Taux de conversion",
+        "exemple": "Taux de conversion",
+        "img_url": "./url/image2.jpg",
+        "audio_url": "./url/audio2.mp3"
+    },
+    {
+        "mot": "Unbreakable",
+        "translation": "Unbreakable",
+        "exemple": "Unbreakable",
+        "img_url": "./url/image2.jpg",
+        "audio_url": "./url/audio2.mp3"
+    }
+]
